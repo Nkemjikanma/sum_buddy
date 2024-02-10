@@ -1,7 +1,6 @@
 import { MainContent } from "@/components/MainContent";
 
 export default function Home() {
-    // TODO: set max width
     return (
         <main className="min-h-5/6 relative flex w-5/6 max-w-[100rem] items-center justify-center">
             {/* Background lines */}
